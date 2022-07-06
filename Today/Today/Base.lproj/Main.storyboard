@@ -8,10 +8,10 @@
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
     <scenes>
-        <!--Reminder List View Controller.swift-->
+        <!--Reminder List View Controller-->
         <scene sceneID="C8s-3G-N2x">
             <objects>
-                <collectionViewController id="iPC-hZ-FYu" customClass="ReminderListViewController.swift" sceneMemberID="viewController">
+                <collectionViewController id="iPC-hZ-FYu" customClass="ReminderListViewController" customModule="Today" customModuleProvider="target" sceneMemberID="viewController">
                     <collectionView key="view" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" dataMode="prototypes" id="l2s-Mn-JHK">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
